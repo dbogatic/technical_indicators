@@ -1,2 +1,2 @@
-# technical_indicators
-Technical Indicators using Alpha Vantage API
+# Technical Indicators
+## Technical Indicators using Alpha Vantage API
